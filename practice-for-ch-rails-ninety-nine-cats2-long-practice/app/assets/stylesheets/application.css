@@ -23,7 +23,7 @@
    text-decoration: inherit;
    color: inherit;
    background: transparent;
-   font-family: 'Amatic SC', cursive;
+   font-family: 'Sofia', sans-serif;
    font-size: 30px;
  }
 
@@ -36,21 +36,24 @@ nav {
   align-items: center;
   box-sizing: border-box;
   padding: 0 20px;
-  color: yellow;
+  color: pink;
+  text-decoration: none;
 }
 
 h1 {
   font-size: 60px;
-  color: yellow;
+  color: pink;
 }
 
 a {
-  color: yellow;
+  color: pink;
+  text-decoration: none;
+  margin-right: 20px;
 }
 
 
 nav a {
-  padding: 0px 10px;
+  padding: 0px 20px;
 }
 
 table {
@@ -60,7 +63,7 @@ table {
 
 th {
   background-color: #000066;
-  color: yellow;
+  color: pink;
   padding: 10px 20px;
 }
 
@@ -68,7 +71,7 @@ textarea, select, input {
   font-family: 'Amatic SC', cursive;
   background-color: inherit;
   border: 0px;
-  border-bottom: 5px solid yellow;
+  border-bottom: 5px solid pink;
   font-size: 30px;
   margin: 5px 10px;
 }
@@ -102,7 +105,7 @@ nav form {
 }
 
 nav input {
-  color: yellow;
+  color: pink;
 }
 
 .main-nav {
@@ -124,7 +127,7 @@ nav input {
 
 .jumbotron h1 {
   font-size: 150px;
-  color: yellow;
+  color: pink;
   position: absolute;
   bottom: 120px;
   right: 50px;
